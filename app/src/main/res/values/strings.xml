@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DarkSoulsPJ</string>
+    <string name="Nombre"> Nombre </string>
+    <string name="Sex"> Nombre </string>
+    <string name="Class"> Nombre </string>
+    <string name="Gift"> Nombre </string>
+    <string name="Physique"> Nombre </string>
+</resources>
